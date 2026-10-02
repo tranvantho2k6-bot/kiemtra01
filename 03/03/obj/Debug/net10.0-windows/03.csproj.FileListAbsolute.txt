@@ -1,0 +1,17 @@
+D:\VSC\03\03\bin\Debug\net10.0-windows\03.exe
+D:\VSC\03\03\bin\Debug\net10.0-windows\03.deps.json
+D:\VSC\03\03\bin\Debug\net10.0-windows\03.runtimeconfig.json
+D:\VSC\03\03\bin\Debug\net10.0-windows\03.dll
+D:\VSC\03\03\bin\Debug\net10.0-windows\03.pdb
+D:\VSC\03\03\obj\Debug\net10.0-windows\_03.Form1.resources
+D:\VSC\03\03\obj\Debug\net10.0-windows\03.csproj.GenerateResource.cache
+D:\VSC\03\03\obj\Debug\net10.0-windows\03.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSC\03\03\obj\Debug\net10.0-windows\03.AssemblyInfoInputs.cache
+D:\VSC\03\03\obj\Debug\net10.0-windows\03.AssemblyInfo.cs
+D:\VSC\03\03\obj\Debug\net10.0-windows\03.csproj.CoreCompileInputs.cache
+D:\VSC\03\03\obj\Debug\net10.0-windows\03.dll
+D:\VSC\03\03\obj\Debug\net10.0-windows\refint\03.dll
+D:\VSC\03\03\obj\Debug\net10.0-windows\03.pdb
+D:\VSC\03\03\obj\Debug\net10.0-windows\03.genruntimeconfig.cache
+D:\VSC\03\03\obj\Debug\net10.0-windows\ref\03.dll
+D:\VSC\03\03\obj\Debug\net10.0-windows\03.csproj.Up2Date
